@@ -18,7 +18,7 @@ ToolJet is an **open-source low-code framework** to build and deploy internal to
 
 <p align="center">
   <kbd>
-    <img src="https://user-images.githubusercontent.com/7828962/149466475-1d1f0b3e-8e25-49e8-a5c9-73e068f78de9.png"/>
+    ![Frame 113](https://user-images.githubusercontent.com/100082640/202143965-3134c7c9-0be4-4934-99c2-a0a751067ff3.png)
   </kbd>
 </p>
 
